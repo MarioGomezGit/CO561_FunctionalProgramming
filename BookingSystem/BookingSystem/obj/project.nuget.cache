@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TMBgKcOFg2edhBVG8EHfO4E/Oq1sDkoObf8ln6MLWHIDoOY6Me3hZ/ZeL508UND5uPq1g7iPM5GnkJ0ftFlrfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gomez\\source\\repos\\BookingSystem\\BookingSystem\\BookingSystem.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gomez\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
